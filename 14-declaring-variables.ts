@@ -2,7 +2,6 @@
  let count = 2;
 
 
-
  function doSomething (){
 
    for  ( let i =0; i< 5; i++){
